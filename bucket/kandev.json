@@ -1,12 +1,12 @@
 {
-    "version": "0.99.1",
+    "version": "0.100.0",
     "description": "Manage tasks, orchestrate agents, review changes, and ship value",
     "homepage": "https://github.com/kdlbs/kandev",
     "license": "AGPL-3.0-only",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/kdlbs/kandev/releases/download/v0.99.1/kandev-windows-x64.tar.gz",
-            "hash": "e828602fc19abd834cd5cb3e32808aa9e3dd150fa914491be00896f9cb55c007",
+            "url": "https://github.com/kdlbs/kandev/releases/download/v0.100.0/kandev-windows-x64.tar.gz",
+            "hash": "a0836b61813145ff517d7e181ea0f6540177c65368b03dc83f5722c2e271c755",
             "extract_dir": "kandev"
         }
     },
